@@ -1,4 +1,4 @@
-# treeniohjelma
+# treenilogi
 
 * Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
 * Käyttäjä pystyy lisäämään sovellukseen kuntosali-ohjelmansa treenitiedot, kuten käytetyt painot, liikkeet, toistot ja sarjat. Lisäksi käyttäjä pystyy muokkaamaan ja poistamaan lisäämiään tietoja.
